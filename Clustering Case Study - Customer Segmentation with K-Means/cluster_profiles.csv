@@ -1,0 +1,33 @@
+offer_id,0,1,2,campaign,varietal,min_qty,discount,origin,past_peak
+1,0.0625,0.1836734693877551,0.0,January,Malbec,72,56,France,False
+2,0.375,0.08163265306122448,0.0,January,Pinot Noir,72,17,France,False
+3,0.0,0.08163265306122448,0.05714285714285714,February,Espumante,144,32,Oregon,True
+4,0.0,0.24489795918367346,0.0,February,Champagne,72,48,France,True
+5,0.0,0.08163265306122448,0.0,February,Cabernet Sauvignon,144,44,New Zealand,True
+6,0.0,0.22448979591836735,0.02857142857142857,March,Prosecco,144,86,Chile,False
+7,0.0,0.061224489795918366,0.45714285714285713,March,Prosecco,6,40,Australia,True
+8,0.0,0.061224489795918366,0.4857142857142857,March,Espumante,6,45,South Africa,False
+9,0.0,0.20408163265306123,0.0,April,Chardonnay,144,57,Chile,False
+10,0.0625,0.08163265306122448,0.05714285714285714,April,Prosecco,72,52,California,False
+11,0.0,0.2653061224489796,0.0,May,Champagne,72,85,France,False
+12,0.0625,0.061224489795918366,0.02857142857142857,May,Prosecco,72,83,Australia,False
+13,0.0,0.0,0.17142857142857143,May,Merlot,6,43,Chile,False
+14,0.0,0.1836734693877551,0.0,June,Merlot,72,64,Chile,False
+15,0.0,0.12244897959183673,0.0,June,Cabernet Sauvignon,144,19,Italy,False
+16,0.0625,0.08163265306122448,0.0,June,Merlot,72,88,California,False
+17,0.4375,0.0,0.0,July,Pinot Noir,12,47,Germany,False
+18,0.0,0.02040816326530612,0.37142857142857144,July,Espumante,6,50,Oregon,False
+19,0.0,0.08163265306122448,0.02857142857142857,July,Champagne,12,66,Germany,False
+20,0.0,0.12244897959183673,0.0,August,Cabernet Sauvignon,72,82,Italy,False
+21,0.0,0.04081632653061224,0.05714285714285714,August,Champagne,12,50,California,False
+22,0.0,0.40816326530612246,0.02857142857142857,August,Champagne,72,63,France,False
+23,0.0625,0.08163265306122448,0.0,September,Chardonnay,144,39,South Africa,False
+24,0.75,0.0,0.0,September,Pinot Noir,6,34,Italy,False
+25,0.0,0.12244897959183673,0.0,October,Cabernet Sauvignon,72,59,Oregon,True
+26,0.75,0.061224489795918366,0.0,October,Pinot Noir,144,83,Australia,False
+27,0.0625,0.14285714285714285,0.02857142857142857,October,Champagne,72,88,New Zealand,False
+28,0.0,0.10204081632653061,0.02857142857142857,November,Cabernet Sauvignon,12,56,France,True
+29,0.0,0.02040816326530612,0.45714285714285713,November,Pinot Grigio,6,87,France,False
+30,0.0,0.12244897959183673,0.45714285714285713,December,Malbec,6,54,France,False
+31,0.0,0.3469387755102041,0.0,December,Champagne,72,89,France,False
+32,0.0,0.08163265306122448,0.0,December,Cabernet Sauvignon,72,45,Germany,True
